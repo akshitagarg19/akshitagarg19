@@ -245,55 +245,6 @@ Hands-on laboratory training in nanopigment and metal sulphide synthesis.
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshitagarg19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitagarg19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=akshitagarg19&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD" alt="GitHub Streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshitagarg19&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshitagarg19&theme=react-dark&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
