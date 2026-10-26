@@ -245,6 +245,20 @@ Hands-on laboratory training in nanopigment and metal sulphide synthesis.
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/akshitagarg19/akshitagarg19/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## Current Focus
 
 ```yaml
